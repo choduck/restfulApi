@@ -1,0 +1,569 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 1000
+    },
+    "auditLog": "log/.audit.json",
+    "files": [
+        {
+            "date": 1544516648471,
+            "name": "log\\server_2018-12-11.log",
+            "hash": "ab62f965dbaaaf838963343c8ce78c4a"
+        },
+        {
+            "date": 1544516648482,
+            "name": "log\\exception_2018-12-11.log",
+            "hash": "5f2f2b73c2dd976fc890d6d0f6c2c25e"
+        },
+        {
+            "date": 1544574249008,
+            "name": "log\\server_2018-12-12.log",
+            "hash": "2a64e0a7e1d1651de97c3cfbad1df507"
+        },
+        {
+            "date": 1544574249011,
+            "name": "log\\exception_2018-12-12.log",
+            "hash": "833f5342533208178c4d4001c027b762"
+        },
+        {
+            "date": 1544660090123,
+            "name": "log\\server_2018-12-13.log",
+            "hash": "f79e93ced820edf7ec67a0ca3678c480"
+        },
+        {
+            "date": 1544660090126,
+            "name": "log\\exception_2018-12-13.log",
+            "hash": "e49da20e4304324e98a8a01bd42898ce"
+        },
+        {
+            "date": 1544701571518,
+            "name": "log/server_2018-12-13.log",
+            "hash": "aa7f88154bf4a8caabda902617e33e24"
+        },
+        {
+            "date": 1544701571519,
+            "name": "log/exception_2018-12-13.log",
+            "hash": "e58fcbec0f4f7da30fe88ecd9a248ae0"
+        },
+        {
+            "date": 1544745930638,
+            "name": "log/server_2018-12-14.log",
+            "hash": "6cf9835f909a9d8ba1b8240b2a6adff6"
+        },
+        {
+            "date": 1544745930640,
+            "name": "log/exception_2018-12-14.log",
+            "hash": "6b8b0bb6af47e437c56f48d941e18a95"
+        },
+        {
+            "date": 1544753773519,
+            "name": "log\\server_2018-12-14.log",
+            "hash": "8726c9feeaa575c25bfc19b722a2df4b"
+        },
+        {
+            "date": 1544753773522,
+            "name": "log\\exception_2018-12-14.log",
+            "hash": "b5a026ce637d0fe316dfed5a70bbfab7"
+        },
+        {
+            "date": 1545005353887,
+            "name": "log\\server_2018-12-17.log",
+            "hash": "e107c6983c593232eb90b3d1c8832f3a"
+        },
+        {
+            "date": 1545005353894,
+            "name": "log\\exception_2018-12-17.log",
+            "hash": "11442d2bc33f8be9ff308d0b4eea8ef7"
+        },
+        {
+            "date": 1545106366595,
+            "name": "log\\server_2018-12-18.log",
+            "hash": "f459ea8479a4bdd77fe0b8568f315b8d"
+        },
+        {
+            "date": 1545106366599,
+            "name": "log\\exception_2018-12-18.log",
+            "hash": "268915b927d62b71966fc620d8d5ebae"
+        },
+        {
+            "date": 1545182972992,
+            "name": "log\\server_2018-12-19.log",
+            "hash": "bea77463b752c19d7636f7fa93d42e5c"
+        },
+        {
+            "date": 1545182972997,
+            "name": "log\\exception_2018-12-19.log",
+            "hash": "026f356e49b593d35df20978b4735fd3"
+        },
+        {
+            "date": 1545264025537,
+            "name": "log\\server_2018-12-20.log",
+            "hash": "b5118e9bde52b31ea58aaf73db3b3012"
+        },
+        {
+            "date": 1545264025540,
+            "name": "log\\exception_2018-12-20.log",
+            "hash": "131bc5d298c75d6dd3bfdf354cc0a55f"
+        },
+        {
+            "date": 1545375272674,
+            "name": "log\\server_2018-12-21.log",
+            "hash": "848b319e525a6313a35342459a0bf72e"
+        },
+        {
+            "date": 1545375272683,
+            "name": "log\\exception_2018-12-21.log",
+            "hash": "f3466d07effd6cea15ef574573e175e0"
+        },
+        {
+            "date": 1545611332242,
+            "name": "log\\server_2018-12-24.log",
+            "hash": "22c84398b37deb648273f32398e7d403"
+        },
+        {
+            "date": 1545611332245,
+            "name": "log\\exception_2018-12-24.log",
+            "hash": "340717e4340c6aab83ab2b285a17cb0d"
+        },
+        {
+            "date": 1545785610158,
+            "name": "log\\server_2018-12-26.log",
+            "hash": "a19341e795098e88b2ec78a2ace4fe92"
+        },
+        {
+            "date": 1545785610168,
+            "name": "log\\exception_2018-12-26.log",
+            "hash": "75255ebbb727f796efe8b447496033ed"
+        },
+        {
+            "date": 1545875322810,
+            "name": "log\\server_2018-12-27.log",
+            "hash": "0a9b21326b5e71107f393bb641c2c9fa"
+        },
+        {
+            "date": 1545875322814,
+            "name": "log\\exception_2018-12-27.log",
+            "hash": "cb57c10295260536cb160a5bb817c2ac"
+        },
+        {
+            "date": 1545963837942,
+            "name": "log\\server_2018-12-28.log",
+            "hash": "ef66c88f799d3da4758bec31fea2a1d0"
+        },
+        {
+            "date": 1545963837946,
+            "name": "log\\exception_2018-12-28.log",
+            "hash": "f6cb7e78e8cd0b0305937cc468df5899"
+        },
+        {
+            "date": 1546388379963,
+            "name": "log\\server_2019-01-02.log",
+            "hash": "842b52816e3b9a26aab6d25fd542221e"
+        },
+        {
+            "date": 1546388379966,
+            "name": "log\\exception_2019-01-02.log",
+            "hash": "84fd1e0037fa0524630ce52af10e803d"
+        },
+        {
+            "date": 1546493294997,
+            "name": "log\\server_2019-01-03.log",
+            "hash": "2ad231cda53bd6196c8e079a20f32160"
+        },
+        {
+            "date": 1546493295001,
+            "name": "log\\exception_2019-01-03.log",
+            "hash": "79e1d8f8d7d4bd5eafc31653d9ce9afa"
+        },
+        {
+            "date": 1546560955120,
+            "name": "log\\server_2019-01-04.log",
+            "hash": "b0f92ed08fda820ffe8e8c7032a9eccf"
+        },
+        {
+            "date": 1546560955124,
+            "name": "log\\exception_2019-01-04.log",
+            "hash": "5fa8a3781ad35404f0de262d319aa3a2"
+        },
+        {
+            "date": 1546821745461,
+            "name": "log\\server_2019-01-07.log",
+            "hash": "c15159210406c0b3cfc1f784c6c7b0c0"
+        },
+        {
+            "date": 1546821745471,
+            "name": "log\\exception_2019-01-07.log",
+            "hash": "a1609418fa6d2d8f0b2b0627037b4637"
+        },
+        {
+            "date": 1546921673381,
+            "name": "log\\server_2019-01-08.log",
+            "hash": "78dc1ea4c7f9990dcd59da33c607aaac"
+        },
+        {
+            "date": 1546921673385,
+            "name": "log\\exception_2019-01-08.log",
+            "hash": "2b6a469302b6d832da6713d7a06a611f"
+        },
+        {
+            "date": 1547000635411,
+            "name": "log\\server_2019-01-09.log",
+            "hash": "3f7bf501fbb4ec655af1916c9b0d219d"
+        },
+        {
+            "date": 1547000635416,
+            "name": "log\\exception_2019-01-09.log",
+            "hash": "3cefecf5e8715099a349a5069adb9e26"
+        },
+        {
+            "date": 1547536031002,
+            "name": "log\\server_2019-01-15.log",
+            "hash": "4041a7de07f4863fbdfb3706ce27b329"
+        },
+        {
+            "date": 1547536031007,
+            "name": "log\\exception_2019-01-15.log",
+            "hash": "f444599bc011be90948d1815b88b6189"
+        },
+        {
+            "date": 1547602497503,
+            "name": "log\\server_2019-01-16.log",
+            "hash": "9d005e0daf9fd5ddbd5cf4a36682c809"
+        },
+        {
+            "date": 1547602497511,
+            "name": "log\\exception_2019-01-16.log",
+            "hash": "d049ed26c974a1d2e2df7018adc94e74"
+        },
+        {
+            "date": 1547699712577,
+            "name": "log\\server_2019-01-17.log",
+            "hash": "62b9aa7193f53427bd70011fd15da6bf"
+        },
+        {
+            "date": 1547699712582,
+            "name": "log\\exception_2019-01-17.log",
+            "hash": "548490ed469479e40d8701c05d5f165e"
+        },
+        {
+            "date": 1547809833595,
+            "name": "log\\server_2019-01-18.log",
+            "hash": "ea4e4bf8e258ca3f3f9780182df9b7a1"
+        },
+        {
+            "date": 1547809833601,
+            "name": "log\\exception_2019-01-18.log",
+            "hash": "358a79bc40329f7f0411d7b27cb1dee5"
+        },
+        {
+            "date": 1547866860473,
+            "name": "log\\server_2019-01-19.log",
+            "hash": "c8886ff2d7982feec8a2b8b4353e0b85"
+        },
+        {
+            "date": 1547866860478,
+            "name": "log\\exception_2019-01-19.log",
+            "hash": "f4871b89a2f8d5353d3b458a7280800d"
+        },
+        {
+            "date": 1548043862004,
+            "name": "log\\server_2019-01-21.log",
+            "hash": "83033f672e98870a1e40202a084bfddc"
+        },
+        {
+            "date": 1548043862008,
+            "name": "log\\exception_2019-01-21.log",
+            "hash": "d57f79f9d0edb40ead390f21d5ac3afe"
+        },
+        {
+            "date": 1548116958362,
+            "name": "log\\server_2019-01-22.log",
+            "hash": "203210d8f6bbe94ca1edbf6a8dac321d"
+        },
+        {
+            "date": 1548116958367,
+            "name": "log\\exception_2019-01-22.log",
+            "hash": "e89f43e7f20c27f25ecd697004878227"
+        },
+        {
+            "date": 1548204058014,
+            "name": "log\\server_2019-01-23.log",
+            "hash": "cbd0148b770fdaac96a5563d0e9134eb"
+        },
+        {
+            "date": 1548204058018,
+            "name": "log\\exception_2019-01-23.log",
+            "hash": "7aca51431cc01dab4975b3f899e05ce8"
+        },
+        {
+            "date": 1548311038965,
+            "name": "log\\server_2019-01-24.log",
+            "hash": "93705c0c28a8ab0b9db566c593a359c0"
+        },
+        {
+            "date": 1548311038969,
+            "name": "log\\exception_2019-01-24.log",
+            "hash": "c8991c85fcccd193b90699149a82a719"
+        },
+        {
+            "date": 1548465069751,
+            "name": "log\\server_2019-01-26.log",
+            "hash": "4ed6a5b18bdf74be303aadf9b56ee7c1"
+        },
+        {
+            "date": 1548465069771,
+            "name": "log\\exception_2019-01-26.log",
+            "hash": "3df5add811989b2250b749951667ca25"
+        },
+        {
+            "date": 1548548876816,
+            "name": "log\\server_2019-01-27.log",
+            "hash": "b4d8b0a398d19c2759cf3d11c43c21a9"
+        },
+        {
+            "date": 1548548876841,
+            "name": "log\\exception_2019-01-27.log",
+            "hash": "28c02001e63f022300e28dc1471fc75a"
+        },
+        {
+            "date": 1548637625634,
+            "name": "log\\server_2019-01-28.log",
+            "hash": "2636d2d486232570b221fef3d145e827"
+        },
+        {
+            "date": 1548637625641,
+            "name": "log\\exception_2019-01-28.log",
+            "hash": "2d3ebe7930a74e6bb053a9ad4a13fecd"
+        },
+        {
+            "date": 1548738899261,
+            "name": "log\\server_2019-01-29.log",
+            "hash": "9893f24a62ba51c0e40ccf6e8c23e4c6"
+        },
+        {
+            "date": 1548738899266,
+            "name": "log\\exception_2019-01-29.log",
+            "hash": "f777571be5241263f20e5729d983e1da"
+        },
+        {
+            "date": 1548807272283,
+            "name": "log\\server_2019-01-30.log",
+            "hash": "2c193b53bad4ad75d65ec5f39194dd71"
+        },
+        {
+            "date": 1548807272294,
+            "name": "log\\exception_2019-01-30.log",
+            "hash": "026a89b2547b723a00682ca7ee495d2a"
+        },
+        {
+            "date": 1548893617739,
+            "name": "log\\server_2019-01-31.log",
+            "hash": "a267086a650be1db02bf6965a15445c5"
+        },
+        {
+            "date": 1548893617744,
+            "name": "log\\exception_2019-01-31.log",
+            "hash": "5c20677ec59dc471506ee02cb97f0ecb"
+        },
+        {
+            "date": 1548980122998,
+            "name": "log\\server_2019-02-01.log",
+            "hash": "38b849de09ced206c11779ac9f5eb52b"
+        },
+        {
+            "date": 1548980123003,
+            "name": "log\\exception_2019-02-01.log",
+            "hash": "03e2bcdc3a1b9b43de45237d2b561de8"
+        },
+        {
+            "date": 1549500098967,
+            "name": "log\\server_2019-02-07.log",
+            "hash": "51f37dfd3501716fbc7b73beb94577d6"
+        },
+        {
+            "date": 1549500098972,
+            "name": "log\\exception_2019-02-07.log",
+            "hash": "5e3530f0cff575b4cc54d8d0be70d1f8"
+        },
+        {
+            "date": 1549586057535,
+            "name": "log\\server_2019-02-08.log",
+            "hash": "40a0e5ea292055e429953e9c26944f55"
+        },
+        {
+            "date": 1549586057540,
+            "name": "log\\exception_2019-02-08.log",
+            "hash": "8a69c7f24dfec339b0747542f138d95e"
+        },
+        {
+            "date": 1549846482739,
+            "name": "log\\server_2019-02-11.log",
+            "hash": "8aa0a3202b7c3f9d8132474c6a4f9631"
+        },
+        {
+            "date": 1549846482744,
+            "name": "log\\exception_2019-02-11.log",
+            "hash": "e638ad1c0c028cc70e6c17029276e981"
+        },
+        {
+            "date": 1549931473081,
+            "name": "log\\server_2019-02-12.log",
+            "hash": "5d65493d4d24a17164c361a4db8845b0"
+        },
+        {
+            "date": 1549931473101,
+            "name": "log\\exception_2019-02-12.log",
+            "hash": "aa38c506590788826a3451e4da3ef200"
+        },
+        {
+            "date": 1550017306537,
+            "name": "log\\server_2019-02-13.log",
+            "hash": "fa5bf8e731709211fdc00e9641ddd939"
+        },
+        {
+            "date": 1550017306548,
+            "name": "log\\exception_2019-02-13.log",
+            "hash": "edc4f430680324ee27712430eb6e741c"
+        },
+        {
+            "date": 1550125429422,
+            "name": "log\\server_2019-02-14.log",
+            "hash": "1d88f5c6c549ffb0aff7fd1004a3bf34"
+        },
+        {
+            "date": 1550125429432,
+            "name": "log\\exception_2019-02-14.log",
+            "hash": "cd6586361d41fe2331b534e3e071039c"
+        },
+        {
+            "date": 1550276542476,
+            "name": "log\\server_2019-02-16.log",
+            "hash": "1190bbb99e4a707d3d74647869b85eae"
+        },
+        {
+            "date": 1550276542492,
+            "name": "log\\exception_2019-02-16.log",
+            "hash": "631581b945b2b4bbf807a3229572db49"
+        },
+        {
+            "date": 1550639973070,
+            "name": "log\\server_2019-02-20.log",
+            "hash": "eae78d97935fa37c5b98884d91aab488"
+        },
+        {
+            "date": 1550639973077,
+            "name": "log\\exception_2019-02-20.log",
+            "hash": "a47a4f9fe241e15647769b50988d28bf"
+        },
+        {
+            "date": 1550710593276,
+            "name": "log\\server_2019-02-21.log",
+            "hash": "f0f342fc8b267346f928d7f5023fcaa5"
+        },
+        {
+            "date": 1550710593282,
+            "name": "log\\exception_2019-02-21.log",
+            "hash": "84c16429be84f485786939d7d8416421"
+        },
+        {
+            "date": 1550808456170,
+            "name": "log\\server_2019-02-22.log",
+            "hash": "9d8b833ee57ae8f700567f21abb33957"
+        },
+        {
+            "date": 1550808456175,
+            "name": "log\\exception_2019-02-22.log",
+            "hash": "bf31d8530ff96476c3cc2b230ef31b0a"
+        },
+        {
+            "date": 1550880309689,
+            "name": "log\\server_2019-02-23.log",
+            "hash": "416c7e2b7835cd5c3eefea42d2f2c85a"
+        },
+        {
+            "date": 1550880309695,
+            "name": "log\\exception_2019-02-23.log",
+            "hash": "19b618b72fb38871c89b608b1c4ec4e9"
+        },
+        {
+            "date": 1551056076037,
+            "name": "log\\server_2019-02-25.log",
+            "hash": "8222a998ff4e856b46be137390f74d41"
+        },
+        {
+            "date": 1551056076055,
+            "name": "log\\exception_2019-02-25.log",
+            "hash": "2be2ea79087f8bd6ce6718ed681ff714"
+        },
+        {
+            "date": 1551314385222,
+            "name": "log\\server_2019-02-28.log",
+            "hash": "e72cefdf6409dd9e8e146d1cf4713e52"
+        },
+        {
+            "date": 1551314385227,
+            "name": "log\\exception_2019-02-28.log",
+            "hash": "6865d06c25c2e2d4ecb91512bba8588a"
+        },
+        {
+            "date": 1551662847759,
+            "name": "log\\server_2019-03-04.log",
+            "hash": "0a3105991b66c49e7ab2de6b23b6579a"
+        },
+        {
+            "date": 1551662847874,
+            "name": "log\\exception_2019-03-04.log",
+            "hash": "437ec9842f94d024ea27086bd44d8e39"
+        },
+        {
+            "date": 1551781007901,
+            "name": "log\\server_2019-03-05.log",
+            "hash": "41e58166d54f8ff41da43915f016e890"
+        },
+        {
+            "date": 1551781007908,
+            "name": "log\\exception_2019-03-05.log",
+            "hash": "d5a9bb5a5d0072be9d3abe652c412c67"
+        },
+        {
+            "date": 1552526766953,
+            "name": "log\\server_2019-03-14.log",
+            "hash": "a48e7d4f531767a8b167398f4617d39b"
+        },
+        {
+            "date": 1552526766958,
+            "name": "log\\exception_2019-03-14.log",
+            "hash": "587d85bc0d02a4015291ab60f4fe5261"
+        },
+        {
+            "date": 1552615381804,
+            "name": "log\\server_2019-03-15.log",
+            "hash": "e8140e2daedaad6fe51b4f46aa222d0b"
+        },
+        {
+            "date": 1552615381811,
+            "name": "log\\exception_2019-03-15.log",
+            "hash": "ee55794c41bdd45650f95a560fd871e3"
+        },
+        {
+            "date": 1552873224181,
+            "name": "log\\server_2019-03-18.log",
+            "hash": "830a34d907303707e25eee83a959a6f2"
+        },
+        {
+            "date": 1552873224186,
+            "name": "log\\exception_2019-03-18.log",
+            "hash": "84a5ebf390c788bcd4734318fbea4722"
+        },
+        {
+            "date": 1553736011434,
+            "name": "log\\server_2019-03-28.log",
+            "hash": "f0fabd07e8a8039e3c075a51913166a5"
+        },
+        {
+            "date": 1553736011438,
+            "name": "log\\exception_2019-03-28.log",
+            "hash": "1bb9b5ccc63c384f64cc4599db6f3fbc"
+        }
+    ]
+}

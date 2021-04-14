@@ -1,0 +1,15 @@
+module.exports = 
+{
+	LISTEN_PORT: 4789,
+	SSL: false,
+	
+	COOKIE_SECRET:'kovex1234!@#$',	
+	//TARGET_ADDRESS: '211.252.83.131',
+    //TARGET_ADDRESS: '172.16.0.185',
+	//TARGET_PORT: 8801
+
+	TARGET_ADDRESS: '211.252.86.147',
+	TARGET_PORT: 8801
+	
+	
+};
